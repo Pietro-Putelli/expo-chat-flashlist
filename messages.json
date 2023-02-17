@@ -1,0 +1,151 @@
+[
+    {
+        "id": 1,
+        "content": "Hey, how's it going?",
+        "source": null
+    },
+    {
+        "id": 2,
+        "content": "Not bad, thanks for asking",
+        "source": null
+    },
+    {
+        "id": 3,
+        "content": "Did you see the game last night?",
+        "source": null
+    },
+    {
+        "id": 4,
+        "content": "Yeah, it was amazing!",
+        "source": null
+    },
+    {
+        "id": 5,
+        "content": "Check out this link",
+        "source": "https://images.unsplash.com/photo-1533743983669-94fa5c4338ec",
+        "type": "business"
+    },
+    {
+        "id": 6,
+        "content": "Wow, that's a great photo",
+        "source": null
+    },
+    {
+        "id": 7,
+        "content": "What are you up to this weekend?",
+        "source": null
+    },
+    {
+        "id": 8,
+        "content": "Not sure yet, maybe some hiking",
+        "source": null
+    },
+    {
+        "id": 9,
+        "content": "I love hiking, count me in!",
+        "source": null
+    },
+    {
+        "id": 10,
+        "content": "This link has some great hiking trails",
+        "source": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13",
+        "type": "event"
+    },
+    {
+        "id": 11,
+        "content": "Thanks, I'll check it out",
+        "source": null
+    },
+    {
+        "id": 12,
+        "content": "Have you tried the new restaurant downtown?",
+        "source": null
+    },
+    {
+        "id": 13,
+        "content": "No, but I heard good things about it",
+        "source": null
+    },
+    {
+        "id": 14,
+        "content": "I just went there last night, it was amazing!",
+        "source": null
+    },
+    {
+        "id": 15,
+        "content": "This link has the menu and reviews",
+        "source": "https://images.unsplash.com/photo-1532386236358-a33d8a9434e3",
+        "type": "event"
+    },
+    {
+        "id": 16,
+        "content": "Thanks for sharing, it looks delicious",
+        "source": null
+    },
+    {
+        "id": 17,
+        "content": "Did you hear about the new movie coming out?",
+        "source": null
+    },
+    {
+        "id": 18,
+        "content": "No, what movie?",
+        "source": null
+    },
+    {
+        "id": 19,
+        "content": "It's a sci-fi thriller, I can't wait to see it",
+        "source": null
+    },
+    {
+        "id": 20,
+        "content": "This link has the trailer",
+        "source": "https://images.unsplash.com/photo-1536444894718-0021cbbeb45f",
+        "type": "business"
+    },
+    {
+        "id": 21,
+        "content": "Looks intense, I'm in!",
+        "source": null
+    },
+    {
+        "id": 22,
+        "content": "What are your plans for the summer?",
+        "source": null
+    },
+    {
+        "id": 23,
+        "content": "I just finished reading a really great book and I highly recommend it. It's called 'The Nightingale' by Kristin Hannah.",
+        "source": null
+    },
+    {
+        "id": 24,
+        "content": "I'm a huge animal lover and I have a soft spot for dogs. Anyone else have a furry friend they love?",
+        "source": null
+    },
+    {
+        "id": 25,
+        "content": "I'm trying to cut back on my caffeine intake, but it's been a struggle. Anyone have any tips for reducing coffee cravings?",
+        "source": null
+    },
+    {
+        "id": 26,
+        "content": "I love traveling and experiencing new cultures. What's been your favorite trip so far?",
+        "source": null
+    },
+    {
+        "id": 27,
+        "content": "I'm a big fan of board games and game nights. What's your favorite game to play with friends?",
+        "source": null
+    },
+    {
+        "id": 28,
+        "content": "I just started a new job and I'm feeling a little overwhelmed. Any tips for adjusting to a new workplace?",
+        "source": null
+    },
+    {
+        "id": 29,
+        "content": "I'm trying to learn a new language and it's been a challenge. Anyone have any recommendations for language learning apps?",
+        "source": null
+    }
+]
